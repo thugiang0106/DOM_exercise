@@ -1,1 +1,1 @@
-# This is a git/ github exercise
+# This is a git & github exercise
